@@ -85,9 +85,9 @@ Users can create predictions, compete with family and friends, and earn points t
 **Technologies:** Add only the technologies actually used, for example:
 `React · TypeScript · Vite · PostgreSQL `
 
-**Status:** Completed
-[**Live:**](https://polla-mundial-2026-kappa-gray.vercel.app)
-[**View Repo**](https://github.com/bsllozad/Polla2026)
+- **Status:** Completed
+- [**Live**](https://polla-mundial-2026-kappa-gray.vercel.app)
+- [**View Repo**](https://github.com/bsllozad/Polla2026)
 
 
 
@@ -99,9 +99,9 @@ Built with React, Vite, TypeScript, Supabase Auth, PostgreSQL with Row-Level Sec
 
 Current features include secure authentication, persistent sessions, family onboarding, adult and child roles, administrator invitations, and family-level data isolation.
 
-**Status:** In active development  
-[**Live:**](https://family-planner-beige.vercel.app)
-[**View Repo**](https://github.com/bsllozad/family-planner)
+- **Status:** In active development  
+- [**Live**](https://family-planner-beige.vercel.app)
+- [**View Repo**](https://github.com/bsllozad/family-planner)
 
 
 ### Additional Learning Projects
