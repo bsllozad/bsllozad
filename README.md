@@ -86,8 +86,8 @@ Users can create predictions, compete with family and friends, and earn points t
 `React · TypeScript · Vite · PostgreSQL `
 
 **Status:** Completed
-**Live:** https://polla-mundial-2026-kappa-gray.vercel.app
-**View Repo** https://github.com/bsllozad/Polla2026
+[**Live:**](https://polla-mundial-2026-kappa-gray.vercel.app)
+[**View Repo**](https://github.com/bsllozad/Polla2026)
 
 
 
@@ -100,8 +100,8 @@ Built with React, Vite, TypeScript, Supabase Auth, PostgreSQL with Row-Level Sec
 Current features include secure authentication, persistent sessions, family onboarding, adult and child roles, administrator invitations, and family-level data isolation.
 
 **Status:** In active development  
-**Live:** https://family-planner-beige.vercel.app
-**View Repo** https://github.com/bsllozad/family-planner
+[**Live:**](https://family-planner-beige.vercel.app)
+[**View Repo**](https://github.com/bsllozad/family-planner)
 
 
 ### Additional Learning Projects
@@ -112,10 +112,10 @@ These repositories document my technical growth, experiments, and continuous lea
 
 ## Certifications
 
-* **AWS Certified Solutions Architect – Associate**(https://www.credly.com/badges/6ea3893f-5206-448f-8a85-e6b2283d163c/public_url)
+* [**AWS Certified Solutions Architect – Associate**](https://www.credly.com/badges/6ea3893f-5206-448f-8a85-e6b2283d163c/public_url)
 * [AWS Certified Cloud Practitioner](https://www.credly.com/badges/c4f45951-2e0b-426e-811a-063bfe271978/linked_in_profile)
 * [Verified International Academic Qualifications](https://www.credly.com/badges/58dc37e7-cbf6-43bc-8267-4ced94ff8f35?source=linked_in_profile)
-* IBM Certified Solution Developer – Integration Bus V10.0
+* [IBM Certified Solution Developer – Integration Bus V10.0](https://www.credly.com/badges/870f710e-74b3-4a51-9b60-098bb43d2fb9/linked_in_profile)
 
 
 ## Currently Exploring
