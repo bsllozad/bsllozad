@@ -128,4 +128,4 @@ These repositories document my technical growth, experiments, and continuous lea
 
 ## Connect With Me
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-Bernardo_Lopez-0A66C2?style=flat-square\&logo=linkedin\&logoColor=white)](www.linkedin.com/in/blopez88)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Bernardo_Lopez-0A66C2?style=flat-square&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/blopez88)
